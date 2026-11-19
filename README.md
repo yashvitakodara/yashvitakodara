@@ -22,4 +22,4 @@ I build automated Python pipelines that turn messy websites and hidden APIs into
 
 ---
 📫 **Available for freelance web scraping & data extraction projects.**  
-*Feel free to reach out via [Upwork / Email / LinkedIn — add your preferred link here].*
+email:yashvitakoadra@gmail.com
